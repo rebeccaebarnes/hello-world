@@ -1,5 +1,5 @@
 # hello-world
-first github repository
+About Me: Rebecca Barnes
 
 I come from a background of social sciences, with a Bachelor of Psychological Science from the University of Queensland, Australia. I've 
 always felt an affinity for math, statistics and research and have continued to find ways to build those elements into an environment that 
